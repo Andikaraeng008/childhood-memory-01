@@ -1,12 +1,12 @@
 """Make the AI Judge Feel Nostalgic: A Childhood Memory.
 
 Writes one sentence recalling a childhood memory to /output/entry.txt.
-The sentence is 200 characters long, one sentence, within the 1-280 gate.
+The sentence is 184 characters long, one sentence, within the 1-280 gate.
 """
 
 from pathlib import Path
 
-LINE = "The school bell rang at three and the whole street ran home barefoot, and I only realised this year that the fastest boy in our gang grew up to be the postman who still waves at every child he passes."
+LINE = "My grandmother kept my broken toy car on her windowsill for twenty years, and when I finally asked why, she said it was the only thing I ever brought her that I did not ask her to fix."
 
 
 def main() -> None:
