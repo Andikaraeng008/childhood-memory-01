@@ -6,7 +6,7 @@ The sentence is 184 characters long, one sentence, within the 1-280 gate.
 
 from pathlib import Path
 
-LINE = "My grandmother kept my broken toy car on her windowsill for twenty years, and when I finally asked why, she said it was the only thing I ever brought her that I did not ask her to fix."
+LINE = "My grandfather's radio has played the same station since 1987, and when I asked him to change it once, he said the songs already knew the way home and he was not going to confuse them."
 
 
 def main() -> None:
